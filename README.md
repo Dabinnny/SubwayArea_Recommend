@@ -2,7 +2,7 @@
 
 ## ✔️ 웹사이트 구현 영상
 
-<img src="https://user-images.githubusercontent.com/90162819/159124069-20e5ac7e-3c1f-4afb-b4e2-0089f433aef0.gif">
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159124424-9f2df356-0dac-487d-985e-3ba1165be0e4.gif"></div>
 
 ## ✔️ 프로젝트 목적
 리뷰와 평점을 기반으로 해당 조건이 많은 식당이 많이 위치한 상권지역을 추천합니다.
