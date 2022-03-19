@@ -11,12 +11,12 @@
 
 <img src="https://user-images.githubusercontent.com/90162819/159123334-067357d7-1dcc-406f-bf3e-770ae08df0aa.png">
 
-1. 데이터 수집 : 카카오맵 `Crawling` 진행
-2. 데이터 적재 : 가게명, 음식종류, 리뷰수, 평점, 인근지하철역, 주소 등의 특성(3918*13), `PostgreSQL` 연동
-3. 머신러닝 모델 구축 : `LightGBM`을 활용하여 트리기반 Boosting분류 모델 구축
-4. 추천상권에 대한 지도 시각화 : `구글맵 API`, `Folium`, `Geocode` 활용
-5. 웹서비스 구현 : `Flask` 활용 웹 서비스 구축 
-6. 데이터 시각화 : `Metabase`활용 추천 상권에 대한 insight 도출
+1. **데이터 수집** : 카카오맵 `Crawling` 진행
+2. **데이터 적재** : 가게명, 음식종류, 리뷰수, 평점, 인근지하철역, 주소 등의 특성(3918*13), `PostgreSQL` 연동
+3. **머신러닝 모델 구축** : `LightGBM`을 활용하여 트리기반 Boosting분류 모델 구축
+4. **지도 시각화** : `구글맵 API`, `Folium`, `Geocode` 활용
+5. **웹서비스 구현** : `Flask` 활용 웹 서비스 구축 
+6. **데이터 시각화** : `Metabase`활용 추천 상권에 대한 insight 도출
 
 
 
