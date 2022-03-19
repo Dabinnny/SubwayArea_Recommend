@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+    <title>
+        The Joy of Eating
+    </title>
+  </head>
+
+  <body>
+    <img src="../static/지하철.png" alt="My Image" style="display: block; margin: 0 auto; max-width:65%; max-height:40%;">
+    <center>
+    <h1>고민많은 당신,</h1>
+         <form action="/" method="post">
+          <!-- Default formm group -->
+            
+            <!-- Default input -->
+            
+            <select class="form-select" name="category_dic">
+               <option selected>음식 종류</option>
+               <option value="한식">한식</option>
+               <option value="중식">중식</option>
+               <option value="일식">일식</option>
+               <option value="분식">분식</option>
+               <option value="베이커리,카페">베이커리,카페</option>
+               <option value="호프,펍">호프,펍</option>
+               <option value="패스트푸드">패스트푸드</option>
+               <option value="기타">기타</option>
+            </select>
+
+            <select class="form-select" name="rev">
+                <option selected>리뷰 수</option>
+                <option value="0 ~ 200 개">0 ~ 200 개</option>
+                <option value="200 ~ 400 개">200 ~ 400 개</option>
+                <option value="400 ~ 700 개">400 ~ 700 개</option>
+                <option value="700 ~ 1000 개">700 ~ 1000 개</option>
+                <option value="1000개 이상">1000개 이상</option>
+            </select>
+
+            <select class="form-select" name="rating">
+                <option selected>평점</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+
+            <!--div class="d-grid gap-2 col-6 mx-auto"-->
+                <input type="submit" value="Click!" button class="btn btn-primary"/>
+            <!--/div-->
+      
+      <div class="col-lg-6 col-md-12">
+      {% if fitt %}
+        <div class="button">
+          <h3>오늘 {{fitt}} 로 가라!</h3>
+          <div class="button">
+           <a href="/list" ><button type="button" class="btm_image" id="img_btn" style="border:none; background-color: white;">
+            <img src="../static/map.png" alt="리스트"  width="150"></button></a>
+          </div>
+      {% endif %}
+        </div>
+      </div>
+    </form>
+  </body>
+</html>
