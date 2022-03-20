@@ -18,9 +18,9 @@
 </br>
 
    ### -  **데이터 수집** : 카카오맵 `Crawling` 진행
-      <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152948-50aedfe7-615d-401f-93c3-084c4c92a18e.gif"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152948-50aedfe7-615d-401f-93c3-084c4c92a18e.gif"></div>
 
-      </br>
+</br>
 
    ### -  **데이터 적재** : 가게명, 음식종류, 리뷰수, 평점, 인근지하철역, 주소 등의 특성(3918*13), `PostgreSQL` 연동
 
@@ -41,9 +41,10 @@
    </br>
 
    ### -  **데이터 시각화** : `Metabase`활용 추천 상권에 대한 insight 도출
-       <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png"></div>
 
-       </br>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png"></div>
+
+</br>
 
 
 
