@@ -24,7 +24,7 @@
 
    ### 2)  **데이터 적재** : `PostgreSQL` 연동 (3918*13) 
 
-   <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152931-029eafc0-521c-4628-bba2-e92a8fa6f33e.png"></div>
+   <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152931-029eafc0-521c-4628-bba2-e92a8fa6f33e.png" width="700"></div>
 
    </br>
 
@@ -33,15 +33,13 @@
 
    ### 4)  **지도 시각화** : `구글맵 API`, `Folium`, `Geocode` 활용
 
-   </br>
 
    ### 5)  **웹서비스 구현** : `Flask` 활용 웹 서비스 구축 
 
-   </br>
 
    ### 6)  **데이터 시각화** : `Metabase`활용 추천 상권에 대한 insight 도출
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png" width="400"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png" width="500"></div>
 
 </br>
 
