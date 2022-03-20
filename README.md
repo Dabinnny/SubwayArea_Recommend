@@ -17,12 +17,14 @@
 
 </br>
 
-   ### 1.  **데이터 수집** : 카카오맵 `Crawling` 진행
+   ### 1.  **데이터 수집** 
+-  카카오맵 `Crawling` 진행
 <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152948-50aedfe7-615d-401f-93c3-084c4c92a18e.gif"></div>
 
 </br>
 
-   ### 2.  **데이터 적재** : `PostgreSQL` 연동 (3918*13) 
+   ### 2.  **데이터 적재** 
+   -  `PostgreSQL` 연동 (3918*13) 
 
    <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152931-029eafc0-521c-4628-bba2-e92a8fa6f33e.png" width="700"></div>
 
