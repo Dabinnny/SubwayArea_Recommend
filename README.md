@@ -17,32 +17,31 @@
 
 </br>
 
-   ### -  **데이터 수집** : 카카오맵 `Crawling` 진행
+   ### 1)  **데이터 수집** : 카카오맵 `Crawling` 진행
 <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152948-50aedfe7-615d-401f-93c3-084c4c92a18e.gif"></div>
 
 </br>
 
-   ### -  **데이터 적재** : 가게명, 음식종류, 리뷰수, 평점, 인근지하철역, 주소 등의 특성(3918*13), `PostgreSQL` 연동
+   ### 2)  **데이터 적재** : `PostgreSQL` 연동 (3918*13) 
 
    <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152931-029eafc0-521c-4628-bba2-e92a8fa6f33e.png"></div>
 
    </br>
 
-   ### -  **머신러닝 모델 구축** : `LightGBM`을 활용하여 트리기반 Boosting분류 모델 구축
+   ### 3)  **머신러닝 모델 구축** : `LightGBM`을 활용하여 트리기반 Boosting분류 모델 구축
+
+
+   ### 4)  **지도 시각화** : `구글맵 API`, `Folium`, `Geocode` 활용
 
    </br>
 
-   ### -  **지도 시각화** : `구글맵 API`, `Folium`, `Geocode` 활용
+   ### 5)  **웹서비스 구현** : `Flask` 활용 웹 서비스 구축 
 
    </br>
 
-   ### -  **웹서비스 구현** : `Flask` 활용 웹 서비스 구축 
+   ### 6)  **데이터 시각화** : `Metabase`활용 추천 상권에 대한 insight 도출
 
-   </br>
-
-   ### -  **데이터 시각화** : `Metabase`활용 추천 상권에 대한 insight 도출
-
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png" width="400"></div>
 
 </br>
 
