@@ -13,7 +13,7 @@
 
 ## ✔️ Pipeline 
 
-<img src="https://user-images.githubusercontent.com/90162819/159123334-067357d7-1dcc-406f-bf3e-770ae08df0aa.png">
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159123334-067357d7-1dcc-406f-bf3e-770ae08df0aa.png" width="700"></div>
 
 </br>
 
