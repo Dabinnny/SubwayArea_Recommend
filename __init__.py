@@ -33,8 +33,7 @@ def create_app():
             from category_encoders import OrdinalEncoder
             from sklearn.preprocessing import LabelEncoder
             from imblearn.over_sampling import SMOTE
-            from lightgbm import LGBMClassifier
-            import lightgbm as lgb
+            from xgboost import XGBClassifier
             import warnings
             warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -55,10 +54,10 @@ def create_app():
             X_over, y_over = smote.fit_resample(X_encoded, y_encoded)
             
             
-            model = LGBMClassifier(random_state=2
-                        , n_jobs=-1
+            model = XGBClassifier(random_state=2
+                        , n_estimators=400
                         , learning_rate=0.2
-                        , boost_from_average=False
+                        , max_depth=3
                         )
             model.fit(X_over, y_over)
 
