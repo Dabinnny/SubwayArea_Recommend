@@ -45,7 +45,7 @@
    ### 6.  **데이터 시각화** 
    -  `Metabase`활용 추천 상권에 대한 insight 도출
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png" width="500"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159153055-1c56b409-c6c3-449a-a8fb-e41ab9f04ab0.png" width="550"></div>
 
 </br>
 
