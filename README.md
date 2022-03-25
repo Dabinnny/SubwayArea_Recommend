@@ -13,7 +13,7 @@
 
 ## ✔️ Pipeline 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159123334-067357d7-1dcc-406f-bf3e-770ae08df0aa.png" width="700"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/160058274-12bfaba8-7547-4700-854d-2afd49fb09a0.png" width="700"></div>
 
 </br>
 
@@ -26,7 +26,7 @@
    ### 2.  **데이터 적재** 
    -  `PostgreSQL` 연동 (3918*13) 
 
-   <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159152931-029eafc0-521c-4628-bba2-e92a8fa6f33e.png" width="700"></div>
+   <div align="center"><img src="https://user-images.githubusercontent.com/90162819/160058268-7778c0e9-3854-494e-b0b8-9cd54941c918.png" width="700"></div>
 
    </br>
 
