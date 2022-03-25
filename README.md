@@ -31,7 +31,7 @@
    </br>
 
    ### 3.  **머신러닝 모델 구축** 
-   -  `LightGBM`을 활용하여 트리기반 Boosting분류 모델 구축
+   -  `XGBoost`을 활용하여 Ensemble기반 Boosting 분류모델 구축
 
 
    ### 4.  **지도 시각화** 
