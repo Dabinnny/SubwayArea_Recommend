@@ -13,7 +13,7 @@
 
 ## ✔️ Pipeline 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/160058274-12bfaba8-7547-4700-854d-2afd49fb09a0.png" width="700"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/163156623-0ef8cb44-8b63-41f6-8364-314fe243232b.png" width="700"></div>
 
 </br>
 
@@ -31,7 +31,7 @@
    </br>
 
    ### 3.  **머신러닝 모델 구축** 
-   -  `XGBoost`을 활용하여 Ensemble기반 Boosting 분류모델 구축
+   -  `LightGBM`을 활용하여 Ensemble기반 Boosting 분류모델 구축
 
 
    ### 4.  **지도 시각화** 
